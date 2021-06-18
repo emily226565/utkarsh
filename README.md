@@ -1,4 +1,39 @@
 # utkarsh
+<doctype html>
+<html>
+<head>
+<title>yo</title>
+</head>
+<link rel="stylesheet" type="text/css" href="doctype.css">
+<style type="text/css">
+	body {background-color: black}
+	h2 {color: black;}
+	h2 {background-color: white;}
+	h2 {font-size: 200%;}
+	ol {color:black;}
+	ol {background-color: white;}
+	ol {font-size: 150%;}
+	h3 {color:black;}
+	h3 {background-color: white;}
+	h3 {font-size: 200%;}
+
+	ul {color: black;}
+	ul {background-color: white;}
+	ul {font-size: 150%;}
+	footer {color: black;}
+	footer {background-color: white;}
+	footer {font-size: 100%;}
+	big {color:white;}
+	small {color: white;}
+	header {color: black;}
+	header {background-color: white}
+	header {font-size: 100%;}
+</style>
+
+	<header>
+		this is the header
+	</header>
+
 <body>
 	<h1 id="anime">ROTARY-CLUB(NGO)</h1>
 	<p id="shit">
@@ -9,6 +44,7 @@
 	<big>Patreon</big></br>
 	<small>ADS</small>
 	<a href="https://4anime.to/">link</a>
+	
 	<form id="login" method="get" action="login.php">    
         <label><b>User Name     
         </b>    
